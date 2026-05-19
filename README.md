@@ -1,5 +1,6 @@
 This repo seems better ? :
 https://codeberg.org/The-Naomi-Developers/embedbuilder
+https://codeberg.org/Spatulox/embedbuilder
 
 
 Embed Visualizer
